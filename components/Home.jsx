@@ -4,7 +4,7 @@ import Filter from "./Filter";
 import Search from "./Search";
 // import { useOutletContext } from "react-router-dom";
 // import { ThemeContext } from "../contexts/ThemeContext";
-import UseTheme from "../Hooks/UseTheme";
+import {UseTheme} from "../Hooks/UseTheme";
 
 export default function App() {
   const [query, setQuery] = useState("");

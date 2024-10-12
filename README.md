@@ -19,7 +19,7 @@ This is a React application that displays information about various countries, i
 
 ## Live Demo
 
-You can check out a live demo of the application on [Netlify](https://krishnas-react-rest-countries-api.netlify.app/)(stable).
+You can check out a live demo of the application on [Netlify](https://krishnas-react-rest-countries-api.netlify.app/)(stable).<br>
 You can check out a live demo of the application on [Netlify](https://krishnas-react-rest-country-api.netlify.app/).
 
 ## Getting Started
